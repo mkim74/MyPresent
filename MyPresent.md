@@ -15,8 +15,8 @@ If I'm being honest, my life here at *Mizzou* isn't such a blast, but what can y
      width = "200"
      height = "150"/>
 
-<img src="https://images.prismic.io/play-vs/6c423286e877921fb6659122b16e1845df833e1f_league-of-legends-hero-splash.jpg?auto=compress,format"
-     alt="League"
+<img src="https://s3.amazonaws.com/rcp-prod-uploads/images/7af09d815896d0edc2af2dc5f92c51ef15dc8151Rg.jpeg"
+     alt="Miz Campus"
      style="float: right; margin-right: 10px;" 
      width = "200"
      height = "150"/>
