@@ -12,13 +12,13 @@ If I'm being honest, my life here at *Mizzou* isn't such a blast, but what can y
 <img src="https://images.prismic.io/play-vs/6c423286e877921fb6659122b16e1845df833e1f_league-of-legends-hero-splash.jpg?auto=compress,format"
      alt="League"
      style="float: left; margin-left: 10px;" 
-     width = "150"
-     height = "120"/>
+     width = "200"
+     height = "150"/>
 
 <img src="https://images.prismic.io/play-vs/6c423286e877921fb6659122b16e1845df833e1f_league-of-legends-hero-splash.jpg?auto=compress,format"
      alt="League"
      style="float: right; margin-right: 10px;" 
-     width = "150"
-     height = "120"/>
+     width = "200"
+     height = "150"/>
 
 
